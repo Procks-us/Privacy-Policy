@@ -1,4 +1,4 @@
-# Privacy-Policy
+# Child Privacy-Policy
 Child Safety Standards Policy
 1. Introduction
 At Procks, the safety and well-being of all users, especially children, is our top priority. We are committed to maintaining a platform free from child sexual abuse and exploitation (CSAE). This policy outlines our zero-tolerance approach to CSAE, our proactive measures to prevent and address such content or behavior, and our commitment to compliance with applicable child safety laws and global best practices.
