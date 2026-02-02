@@ -1,59 +1,94 @@
-# Child Privacy-Policy
-Child Safety Standards Policy
-1. Introduction
-At Procks, the safety and well-being of all users, especially children, is our top priority. We are committed to maintaining a platform free from child sexual abuse and exploitation (CSAE). This policy outlines our zero-tolerance approach to CSAE, our proactive measures to prevent and address such content or behavior, and our commitment to compliance with applicable child safety laws and global best practices.
-2. Zero-Tolerance Policy on Child Sexual Abuse and Exploitation (CSAE)
-Procks strictly prohibits any form of child sexual abuse and exploitation, including but not limited to:
-•	Child Sexual Abuse Material (CSAM): Any visual depiction (e.g., photos, videos, or computer-generated imagery) involving a minor engaging in sexually explicit conduct.
-•	Grooming: Befriending or communicating with a minor to facilitate sexual contact or exchange of sexual imagery, whether online or offline.
-•	Sextortion: Coercing or manipulating a minor into producing or sharing sexual content.
-•	Trafficking or Exploitation: Any activity involving the recruitment, transportation, or facilitation of minors for sexual purposes.
-•	Inappropriate Content or Behavior: Content or interactions that sexualize minors, encourage harmful activities, or otherwise endanger children.
-Any accounts or content found violating this policy will be immediately removed, and the responsible users will be permanently banned. Violations will be reported to law enforcement and relevant authorities, such as the National Center for Missing and Exploited Children (NCMEC), in accordance with applicable laws.
-3. Published Standards Against CSAE
-Our commitment to child safety is guided by the following principles, which align with global norms, including the Tech Coalition Child Safety Standards:
-•	Prevention: We proactively monitor and moderate content to prevent CSAE using a combination of automated tools (e.g., AI-driven content scanning) and human review processes.
-•	Detection and Removal: Any detected CSAM or CSAE-related content is promptly removed, and accounts involved are suspended or terminated.
-•	Reporting Mechanisms: We provide clear, accessible in-app tools for users to report suspected CSAE. Reports are prioritized and reviewed immediately by our dedicated Child Safety Team.
-•	Collaboration with Authorities: We cooperate fully with law enforcement, NCMEC, and other child safety organizations to report and address CSAE incidents.
-•	User Education: We provide resources and information to educate users, parents, and guardians about online safety and how to report concerns.
-•	Compliance with Laws: We adhere to all applicable local, national, and international laws regarding child safety, including mandatory reporting of CSAM.
-4. In-App Feedback and Reporting Mechanism
-Procks provides an in-app feedback and reporting feature to allow users to report suspected CSAE or other safety concerns. To report:
-1.	Navigate to the "About Me" within the app.
-2.	Select "Select Report User" from the available options.
-3.	Provide details of the issue, including any relevant content or user information.
-4.	Submit the report for immediate review by our Child Safety Team.
-Reports can also be submitted directly via email to markwylie@sbcglobal.net. All reports are handled confidentially and prioritized for swift action.
-5. Designated Point of Contact for CSAE
-For inquiries or reports related to child safety, please contact our designated Child Safety Officer:
-•	Name: Mark Wylie
-•	Role: CEO, People Officer
-•	Email: markwylie@sbcglobal.net
-•	Availability: Available to address CSAE-related concerns and coordinate with authorities as needed.
-This contact is empowered to discuss and enforce our child safety policies and procedures.
-6. Actions and Enforcement
-Upon receiving a report or detecting CSAE-related content or behavior, we take the following actions:
-•	Immediate Review: Our Child Safety Team investigates reports promptly, typically within 24 hours.
-•	Content Removal: Any confirmed CSAM or CSAE content is removed immediately.
-•	Account Suspension/Termination: Users violating this policy face immediate account suspension or permanent banning.
-•	Reporting to Authorities: Confirmed CSAE incidents are reported to NCMEC, local law enforcement, or other relevant authorities as required by law.
-•	Continuous Improvement: We regularly review and update our detection tools, moderation processes, and policies to address evolving threats.
-7. Compliance with Applicable Laws
-Procks complies with all relevant child safety laws, including but not limited to:
-•	Mandatory reporting of CSAM to NCMEC or equivalent regional authorities.
-•	Data privacy and security regulations to protect minors.
-•	Local and international laws prohibiting child sexual abuse and exploitation.
-We consult with legal advisors to ensure our policies align with global standards and regulatory requirements.
-8. Community Standards and Moderation
-All content on Procks involving minors must comply with our strict community standards, which prohibit:
-•	Sexualized imagery or discussions involving minors.
-•	Content that endangers or exploits children.
-•	Interactions that violate professional boundaries or child safety laws.
-Our moderation team, supported by AI tools, actively monitors content to ensure compliance. 
-9. Partnerships and Continuous Improvement
-We collaborate with child safety experts, advocacy groups, and organizations like the Tech Coalition, INHOPE, and ECPAT International to strengthen our policies and practices. We regularly review and update this policy to reflect best practices, technological advancements, and regulatory changes.
-10. What to Do in an Emergency
-If you believe a child is in immediate danger, contact local law enforcement or emergency services (e.g., 911 in the United States) immediately. For non-emergency concerns, use our in-app reporting feature or email markwylie@sbcglobal.net.
-11. Commitment to a Safer Platform
-Procks is dedicated to creating a safe, respectful, and inclusive environment for all users. We are committed to ongoing efforts to protect children from harm and to fostering a platform where safety comes first.
+# Procks Privacy-Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy - Proks</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 2em;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Proks</h1>
+  <p><strong>Last Updated:</strong> July 25, 2025</p>
+
+  <p>Proks ("we," "us," or "our") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, share, and protect your data when you use Proks (the "App"), a mobile application that allows users to share information with others in close proximity who also have the App. By using the App, you agree to the terms of this Privacy Policy.</p>
+
+  <h2>1. Information We Collect</h2>
+  <h3>a. Information You Provide</h3>
+  <ul>
+    <li><strong>Account Information:</strong> username, email, and optional profile info.</li>
+    <li><strong>Shared Content:</strong> messages or media shared via proximity.</li>
+  </ul>
+
+  <h3>b. Automatically Collected Information</h3>
+  <ul>
+    <li><strong>Location Data:</strong> GPS coordinates when the App is in use.</li>
+    <li><strong>Device Information:</strong> device type, OS, IP, etc.</li>
+    <li><strong>Usage Data:</strong> interactions, crash logs.</li>
+  </ul>
+
+  <h3>c. Information from Third Parties</h3>
+  <p>We may receive usage and performance data from analytics tools.</p>
+
+  <h2>2. How We Use Your Information</h2>
+  <ul>
+    <li>Enable proximity-based sharing</li>
+    <li>Improve app features and performance</li>
+    <li>Personalize your experience</li>
+    <li>Communicate with you</li>
+    <li>Analyze usage trends</li>
+    <li>Ensure security</li>
+    <li>Comply with legal obligations</li>
+  </ul>
+
+  <h2>3. How We Share Your Information</h2>
+  <ul>
+    <li><strong>With Other Users:</strong> Shared info is visible to nearby users.</li>
+    <li><strong>Service Providers:</strong> Trusted providers under agreement.</li>
+    <li><strong>Legal Compliance:</strong> When required by law.</li>
+    <li><strong>Business Transfers:</strong> During acquisition or merger.</li>
+  </ul>
+
+  <h2>4. Your Choices and Controls</h2>
+  <ul>
+    <li>Control location via device settings</li>
+    <li>Manage account through settings</li>
+    <li>Be cautious with what you share</li>
+    <li>Opt out of marketing emails</li>
+  </ul>
+
+  <h2>5. Data Security</h2>
+  <p>We use reasonable measures to protect your data, but no method is 100% secure. Use strong passwords and protect your credentials.</p>
+
+  <h2>6. Data Retention</h2>
+  <p>We retain your data as long as needed to operate the App or comply with law. We delete or anonymize data when no longer necessary.</p>
+
+  <h2>7. Children’s Privacy</h2>
+  <p>We do not knowingly collect info from children under 13 (or 16 in some regions). If discovered, we delete it. Contact us if you believe this has occurred.</p>
+
+  <h2>8. International Data Transfers</h2>
+  <p>Your data may be processed in countries outside your own. By using the App, you consent to this.</p>
+
+  <h2>9. Third-Party Links and Services</h2>
+  <p>We are not responsible for external links or services. Review their policies independently.</p>
+
+  <h2>10. Changes to This Privacy Policy</h2>
+  <p>We may update this Policy. Major changes will be posted in the App or via email.</p>
+
+  <h2>11. Contact Us</h2>
+  <p>If you have questions, contact:</p>
+  <p><strong>Proks</strong><br/>
+  <a href="mailto:markwylie@sbcglobal.net">markwylie@sbcglobal.net</a></p>
+</body>
+</html>
