@@ -3,46 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Privacy Policy - Procks</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 2em;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    h1 {
-      font-size: 2.2em;
-      margin-bottom: 0.2em;
-    }
-    h2 {
-      font-size: 1.5em;
-      margin-top: 2em;
-    }
-    h3 {
-      font-size: 1.3em;
-      margin-top: 1.5em;
-    }
-    ul {
-      margin-bottom: 1.2em;
-    }
-    strong {
-      font-weight: bold;
-    }
-    p {
-      margin-bottom: 1em;
-    }
-    .important {
-      background-color: #f8f9fa;
-      border-left: 5px solid #333;
-      padding: 1em;
-      margin: 1.5em 0;
-    }
-  </style>
+  
 </head>
 <body>
   <h1>Privacy Policy for Procks</h1>
